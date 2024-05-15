@@ -1,0 +1,36 @@
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\bin\Debug\net35\UnityEngine.dll
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly.44154EF1.Up2Date
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\OneDrive\Máy tính\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\bin\Debug\net35\UnityEngine.dll
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly.44154EF1.Up2Date
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\TzPro\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\UnityEngine.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly.44154EF1.Up2Date
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\bin\Debug\net35\UnityEngine.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly.44154EF1.Up2Date
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\Mod_Project\obj\Debug\net35\Assembly-CSharp.pdb

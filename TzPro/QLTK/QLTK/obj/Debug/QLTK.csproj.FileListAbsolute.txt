@@ -1,0 +1,9 @@
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.csproj.AssemblyReference.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.csproj.GenerateResource.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK.exe.config
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.exe
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK\QLTK\obj\Debug\QLTK.pdb
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK.exe
+C:\Users\whyia\Desktop\Mod_UpYadard\Mod_UpYadard\TzPro\QLTK.pdb
